@@ -2,6 +2,11 @@
 
 Summon Beastie!
 
+## Installation
+
+```
+go get github.com/raviqqe/bstie
+```
 
 ## License
 
