@@ -7,7 +7,7 @@ func main() {
        (_ )
     \\\"  ) ^
       \// \(
-      c,c_/_)
+      c_c_/_)
 
   Daemon with you!
 `)
